@@ -1,6 +1,7 @@
-<div align="center">
-
 # ✈ Cockpit
+
+
+![Cockpit Banner](assets/Cockpit-banner.jpeg)
 
 **Mission control for [Claude Code](https://code.claude.com).**
 See what the main agent and every subagent is doing, where your tokens go, and your repo's history. Switch effort with one key and get notified when the work is done.
