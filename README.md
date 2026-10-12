@@ -329,8 +329,29 @@ Bug reports, feature requests and PRs are welcome. Use the [issue templates](.gi
 
 ## License
 
-[MIT](LICENSE) © Shashwat
+This project is distributed under the MIT License.  
+For detailed licensing information, please refer to the [LICENSE](./LICENSE) file included in this repository.
 
-<div align="center">
-<sub>Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic.</sub>
-</div>
+## Contact  
+## Shashwat
+
+**Machine Learning Engineer | Scalable AI Systems**
+
+🔹 **ML systems:** (CV, NLP) + data pipelines<br>
+🔹 **End-to-end:** training → deployment<br>
+🔹 **Backend & Cloud:** Python, Flask, Node.js, Docker, AWS<br>
+🔹 **Projects:** Traffic AI, Video Summarizer, AI Assistants<br>
+
+---
+
+##  Open Source | Tech Innovation  
+Building robust applications and leveraging cloud technologies for high-performance solutions.
+
+---
+
+### Find me here:  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Shashwat-19)  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shashwatk1956/)  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shashwat1956@gmail.com)  [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@Shashwat56)
+[<img src="https://img.shields.io/badge/HackerRank-15%2B-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/shashwat1956)
+
+> Feel free to connect for tech collaborations, open-source contributions, or brainstorming innovative solutions!
+
