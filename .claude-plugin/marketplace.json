@@ -1,0 +1,17 @@
+{
+  "name": "cockpit",
+  "owner": {
+    "name": "shashwat"
+  },
+  "metadata": {
+    "description": "Cockpit: mission control for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cockpit",
+      "source": "./",
+      "description": "Mission control for Claude Code: agents, usage charts, git graph, session log, terminal, notifications and effort switching."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cockpit",
+  "version": "0.1.0",
+  "description": "Mission control for Claude Code: live agent and subagent status, a session log, usage charts, a git graph, a mini terminal, notifications and a better effort switch.",
+  "author": { "name": "shashwat" },
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "dashboard", "subagents", "usage", "git", "effort", "notifications"],
+  "types": "./types/index.d.ts"
+}
